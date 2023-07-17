@@ -1,0 +1,3 @@
+﻿  gittest.cpp
+C:\Users\Administrator\Desktop\ros\zsq_code\git_test\gittest\gittest\gittest.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  gittest.vcxproj -> C:\Users\Administrator\Desktop\ros\zsq_code\git_test\gittest\x64\Debug\gittest.exe
